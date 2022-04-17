@@ -44,7 +44,7 @@ function App() {
   return (
     <div>
       <header>
-        <img src="./images/bg-header-desktop.svg" alt="bg-ima" />
+        <img src="./images/bg-header-desktop.svg" alt="bg-ima" width='100%' />
       </header>
       <div className="container m-auto">
         <div className={`cursor-pointer flex bg-white shadow-md my-16 mx-10 p-6 rounded`}>
